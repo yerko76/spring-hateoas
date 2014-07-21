@@ -1,0 +1,7 @@
+/gradle
+/build
+spring-hateoas.*
+/gradlew
+gradlew.bat
+.idea
+.gradle
